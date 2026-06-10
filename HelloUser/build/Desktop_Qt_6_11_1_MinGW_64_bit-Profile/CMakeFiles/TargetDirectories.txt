@@ -1,0 +1,9 @@
+C:/Users/SamiG/Desktop/qt-projects/HelloUser/build/Desktop_Qt_6_11_1_MinGW_64_bit-Profile/CMakeFiles/HelloUser.dir
+C:/Users/SamiG/Desktop/qt-projects/HelloUser/build/Desktop_Qt_6_11_1_MinGW_64_bit-Profile/CMakeFiles/edit_cache.dir
+C:/Users/SamiG/Desktop/qt-projects/HelloUser/build/Desktop_Qt_6_11_1_MinGW_64_bit-Profile/CMakeFiles/rebuild_cache.dir
+C:/Users/SamiG/Desktop/qt-projects/HelloUser/build/Desktop_Qt_6_11_1_MinGW_64_bit-Profile/CMakeFiles/list_install_components.dir
+C:/Users/SamiG/Desktop/qt-projects/HelloUser/build/Desktop_Qt_6_11_1_MinGW_64_bit-Profile/CMakeFiles/install.dir
+C:/Users/SamiG/Desktop/qt-projects/HelloUser/build/Desktop_Qt_6_11_1_MinGW_64_bit-Profile/CMakeFiles/install/local.dir
+C:/Users/SamiG/Desktop/qt-projects/HelloUser/build/Desktop_Qt_6_11_1_MinGW_64_bit-Profile/CMakeFiles/install/strip.dir
+C:/Users/SamiG/Desktop/qt-projects/HelloUser/build/Desktop_Qt_6_11_1_MinGW_64_bit-Profile/CMakeFiles/HelloUser_autogen_timestamp_deps.dir
+C:/Users/SamiG/Desktop/qt-projects/HelloUser/build/Desktop_Qt_6_11_1_MinGW_64_bit-Profile/CMakeFiles/HelloUser_autogen.dir

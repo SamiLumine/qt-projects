@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-5860e0b35578929153a3.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "stopwatch",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "stopwatch::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-stopwatch-Debug-1de841b76a5a0365a16d.json",
+					"name" : "stopwatch",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "stopwatch_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-stopwatch_autogen-Debug-27f7d8832f86bd136827.json",
+					"name" : "stopwatch_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "stopwatch_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-stopwatch_autogen_timestamp_deps-Debug-59aaab954223248ebdb4.json",
+					"name" : "stopwatch_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/SamiG/Desktop/qt-projects/stopwatch/build/Desktop_Qt_6_11_1_MinGW_64_bit-Debug",
+		"source" : "C:/Users/SamiG/Desktop/qt-projects/stopwatch"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

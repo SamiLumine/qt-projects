@@ -1,0 +1,3 @@
+# Hashes of file build rules.
+d93bea143e3408a854354a4389c30055 CMakeFiles/stopwatch_autogen
+a34c9381a8baaf31782c2f2047afb723 stopwatch_autogen/timestamp
