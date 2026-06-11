@@ -17,6 +17,25 @@ Starting with **Qt Widgets**, then moving on to **Qt Quick / QML**.
 
 ---
 
+## Build
+
+Open the project in **Qt Creator**, select the **Release** configuration
+(bottom left), then press `Ctrl+B`.
+
+### Windows — Deploy
+
+From a terminal with Qt in the PATH:
+
+```bash
+windeployqt .\build\{release-directory}\{file.exe}
+```
+
+## Download
+
+→ [Releases](https://github.com/SamiLumine/qt-projects/releases) 
+
+---
+
 ## Course
 
 [Introduction to Qt Widgets — KDAB on Qt Academy](https://academy.qt.io)
