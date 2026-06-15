@@ -14,7 +14,7 @@ Starting with **Qt Widgets**, then moving on to **Qt Quick / QML**.
 |---|---------|-------------|----------|
 | 01 | [Stopwatch](./stopwatch/) | First steps in Qt — a stopwatch app built while learning the object model, signals & slots, and the event system *(KDAB Part 1)* | QWidget, QTimer, Signals & Slots, Lambdas, Event System, Layouts |
 | 02 | [Editor](./editor/) | A minimal text editor built with Qt Designer — open, edit and save text files via a menu bar *(KDAB Part 2)* | Qt Designer, QMainWindow, QPlainTextEdit, QFileDialog, File I/O, Custom Classes |
-
+| 03 | [Contact Manager](./contact-manager/) | A very simple contact list manager — add and delete contacts through modal dialogs with input validation *(KDAB Parts 3 & 4)* | QDialog, QListWidget, QInputMask, QValidator, QPointer, QComboBox, QMessageBox, SizePolicy |
 ---
 
 ## Build
@@ -40,11 +40,14 @@ windeployqt .\build\{release-directory}\{file.exe}
 
 [Introduction to Qt Widgets — KDAB on Qt Academy](https://academy.qt.io)
 
-| Part | Focus |
-|------|-------|
-| [Part 1](https://academy.qt.io/content-details/326726295/2) | Qt Object Model, Signals & Slots, Event System |
-| [Part 2](https://academy.qt.io/content-details/327186613/2) | Qt Designer, UI ↔ C++ binding, Layouts, Custom Widgets |
+Also available as a [70-video YouTube playlist](https://www.youtube.com/watch?v=g7yijWiZTmI&list=PL6CJYn40gN6iFcTyItvnE5nOmJR8qk_7o)
 
+| Part | Focus | Videos |
+|------|-------|--------|
+| [Part 1](https://academy.qt.io/content-details/326726295/2) | Qt Object Model, Signals & Slots, Event System | #1 – #12 |
+| [Part 2](https://academy.qt.io/content-details/327186613/2) | Qt Designer, UI ↔ C++ binding, Layouts, Custom Widgets | #13 – #19 |
+| [Part 3](https://academy.qt.io/content-details/327304348/2) | Common Widgets, Layout Management (stretch, size hints, size policy), Custom Widgets, Input Validation, Resources | #20 – #28 |
+| [Part 4](https://academy.qt.io/content-details/327503906/2) | Modal & Modeless Dialogs, Premade Dialogs, QMainWindow (menus, toolbars, docking widgets) | #29 – #31 |
 ---
 
 ## Stack
