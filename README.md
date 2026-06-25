@@ -16,6 +16,7 @@ Starting with **Qt Widgets**, then moving on to **Qt Quick / QML**.
 | 02 | [Editor](./editor/) | A minimal text editor built with Qt Designer — open, edit and save text files via a menu bar *(KDAB Part 2)* | Qt Designer, QMainWindow, QPlainTextEdit, QFileDialog, File I/O, Custom Classes |
 | 03 | [Contact Manager](./contact-manager/) | A very simple contact list manager — add and delete contacts through modal dialogs with input validation *(KDAB Parts 3 & 4)* | QDialog, QListWidget, QInputMask, QValidator, QPointer, QComboBox, QMessageBox, SizePolicy |
 | 04 | [Log Book](./logbook/) | A minimalist personal diary app — write dated entries with a mood, search through them with regex, and persist them to a file *(KDAB Part 5)* | QString, QRegularExpression, QFile, QTextStream, QVariant, QMap, QList (Container Classes) |
+| 05 | [Analog Clock](./analog-clock/) | A custom-painted analog clock — draws a live clock face with tick marks, hands entirely in code, no Designer *(KDAB Part 6)* | QPainter, QPen, QBrush, QColor, Coordinate Transformation, QTimer |
 
 ---
 
@@ -51,6 +52,7 @@ Also available as a [70-video YouTube playlist](https://www.youtube.com/watch?v=
 | [Part 3](https://academy.qt.io/content-details/327304348/2) | Common Widgets, Layout Management (stretch, size hints, size policy), Custom Widgets, Input Validation, Resources | #20 – #28 |
 | [Part 4](https://academy.qt.io/content-details/327503906/2) | Modal & Modeless Dialogs, Premade Dialogs, QMainWindow (menus, toolbars, docking widgets) | #29 – #31 |
 | [Part 5](https://academy.qt.io/content-details/327503906/2) | QString, QRegularExpression, Container Classes, File Handling, QVariant, Properties + Qt vs STL containers & implicit sharing | #32 – #37 + [extra 1](https://www.youtube.com/watch?v=d3EX9bVFW-E&list=PL6CJYn40gN6jrZFWcB1HK5cJ_nvViBuRu&index=1) [extra 2](https://www.youtube.com/watch?v=sBxE3QraKMw&list=PL6CJYn40gN6jrZFWcB1HK5cJ_nvViBuRu&index=2) |
+| [Part 6](https://academy.qt.io/content-details/327503906/2) | Painting Basics, Color Handling, Color Themes & Palettes, Painting Operations, Coordinate Transformation, QFontMetrics, Printing | #38 – #45 |
 
 ---
 
